@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://fabianvald.github.io/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://fabianvald.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fabianvald.github.io/en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fabianvald.github.io/"/>
+  </url>
+  <url>
+    <loc>https://fabianvald.github.io/en.html</loc>
+    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://fabianvald.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fabianvald.github.io/en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fabianvald.github.io/"/>
+  </url>
+</urlset>
